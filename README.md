@@ -1,1 +1,1 @@
-Repositório exclusivo para código feitos no intelliJDEA
+Repositório exclusivo para códigos feitos no intelliJDEA
